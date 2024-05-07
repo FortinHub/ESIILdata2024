@@ -1,10 +1,10 @@
 site_name: 'ESIIL ESIILdata2024'
 site_description: 'Central resource for ESIIL researchers'
 site_author: Marie-Josee Fortin
-site_url: https://github.com/FortinHub
+site_url: https://cu-esiil.github.io/ESIILdata2024
 
 # Repository
-repo_name: Postdoc_OASIS
+repo_name: ESIILdata2024
 repo_url: https://github.com/FortinHub/ESIILdata2024
 edit_uri: edit/main/docs/
 # Copyright
