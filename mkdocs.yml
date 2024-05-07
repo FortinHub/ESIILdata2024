@@ -1,11 +1,11 @@
 site_name: 'ESIIL ESIILdata2024'
 site_description: 'Central resource for ESIIL researchers'
 site_author: Marie-Josee Fortin
-site_url: https://github.com/FortinHub/ESIILdata2024
+site_url: https://github.com/FortinHub
 
 # Repository
 repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_url: https://github.com/FortinHub/ESIILdata2024
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
